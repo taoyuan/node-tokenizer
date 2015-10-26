@@ -16,12 +16,12 @@
     "lib": "lib"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": ">=0.10.0"
   },
   "devDependencies": {
-    "nodeunit": "~0.8.1"
+    "nodeunit": "~0.9.1"
   },
   "dependencies": {
-    "disect": "~1.1.0"
+    "disect": "~1.2.0"
   }
 }
